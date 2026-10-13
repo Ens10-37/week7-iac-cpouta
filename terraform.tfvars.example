@@ -1,0 +1,9 @@
+project_network     = 
+name_prefix         = 
+ssh_public_key_path = 
+ssh_allowed_cidr    = 
+image_name          = 
+flavor_name         = 
+
+student_name        = 
+page_message        = 
